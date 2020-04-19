@@ -47,14 +47,18 @@ canvas{
   position: absolute;
   text-align: center;
   color: white;
-  font-size: 30px;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 
 .header h1{
-  letter-spacing: 0.7em;
+  letter-spacing: 0.5em;
+  font-size: 3vw;
+}
+
+.header h2{
+  font-size: 3vw;
 }
 
 /* ---- particles.js container ---- */
