@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://arpanmishra.com/fr/</loc>
+    <loc>//arpanmishra.com/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://arpanmishra.com/"
+                href="//arpanmishra.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://arpanmishra.com/fr/"
+                href="//arpanmishra.com/fr/"
                 />
   </url>
   
   <url>
-    <loc>http://arpanmishra.com/fr/categories/</loc>
+    <loc>//arpanmishra.com/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://arpanmishra.com/categories/"
+                href="//arpanmishra.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://arpanmishra.com/fr/categories/"
+                href="//arpanmishra.com/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://arpanmishra.com/fr/series/</loc>
+    <loc>//arpanmishra.com/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://arpanmishra.com/series/"
+                href="//arpanmishra.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://arpanmishra.com/fr/series/"
+                href="//arpanmishra.com/fr/series/"
                 />
   </url>
   
   <url>
-    <loc>http://arpanmishra.com/fr/tags/</loc>
+    <loc>//arpanmishra.com/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://arpanmishra.com/tags/"
+                href="//arpanmishra.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://arpanmishra.com/fr/tags/"
+                href="//arpanmishra.com/fr/tags/"
                 />
   </url>
   
