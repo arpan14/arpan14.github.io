@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>//arpanmishra.com/about/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//arpanmishra.com/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -80,11 +85,6 @@
                 hreflang="en"
                 href="//arpanmishra.com/series/"
                 />
-  </url>
-  
-  <url>
-    <loc>//arpanmishra.com/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
