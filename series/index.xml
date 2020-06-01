@@ -7,19 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 10 Mar 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="//arpanmishra.com/series/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hugo 101</title>
-      <link>//arpanmishra.com/series/hugo-101/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>//arpanmishra.com/series/hugo-101/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
