@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//arpanmishra.com/about/</loc>
+    <loc>//arpanmishra.com/about.html</loc>
     <lastmod>2020-06-01T13:56:44+05:30</lastmod>
   </url>
   
@@ -12,15 +12,15 @@
   </url>
   
   <url>
-    <loc>//arpanmishra.com/categories/</loc>
+    <loc>//arpanmishra.com/categories.html</loc>
   </url>
   
   <url>
-    <loc>//arpanmishra.com/series/</loc>
+    <loc>//arpanmishra.com/series.html</loc>
   </url>
   
   <url>
-    <loc>//arpanmishra.com/tags/</loc>
+    <loc>//arpanmishra.com/tags.html</loc>
   </url>
   
 </urlset>
