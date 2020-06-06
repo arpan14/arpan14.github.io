@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 06 Jun 2019 21:04:52 +0530</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,6 +19,33 @@
       
       <guid>/about/</guid>
       <description>Hi All! My name is Arpan. I&amp;rsquo;m a Software Engineer at Amazon. I did my undergraduation at the Manipal Institute of Technology - Manipal graduating with a Bachelors degree in Computer Science and Engineering. I came to college with absolutely no experience in programming/coding and built this skill by participating in coding contests hosted on Codechef and Codeforces. Towards the later half of college, I participated in a lot of hackathons and made some open source contributions at Github.</description>
+    </item>
+    
+    <item>
+      <title>First Year of a Computer Science Engineer</title>
+      <link>/posts/2019/06/first-year-of-a-computer-science-engineer/</link>
+      <pubDate>Thu, 06 Jun 2019 21:04:52 +0530</pubDate>
+      
+      <guid>/posts/2019/06/first-year-of-a-computer-science-engineer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My 10 Day Solo Trip to Thailand!</title>
+      <link>/posts/2018/08/my-10-day-solo-trip-to-thailand/</link>
+      <pubDate>Mon, 06 Aug 2018 19:19:56 +0530</pubDate>
+      
+      <guid>/posts/2018/08/my-10-day-solo-trip-to-thailand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authoring a good Resume</title>
+      <link>/posts/2018/06/authoring-a-good-resume/</link>
+      <pubDate>Wed, 06 Jun 2018 21:04:52 +0530</pubDate>
+      
+      <guid>/posts/2018/06/authoring-a-good-resume/</guid>
+      <description></description>
     </item>
     
   </channel>
