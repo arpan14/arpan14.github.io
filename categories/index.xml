@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 06 Jun 2019 21:04:52 +0530</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>academics</title>
+      <link>/categories/academics/</link>
+      <pubDate>Thu, 06 Jun 2019 21:04:52 +0530</pubDate>
+      
+      <guid>/categories/academics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travel</title>
+      <link>/categories/travel/</link>
+      <pubDate>Mon, 06 Aug 2018 19:19:56 +0530</pubDate>
+      
+      <guid>/categories/travel/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

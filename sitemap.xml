@@ -8,7 +8,17 @@
   </url>
   
   <url>
+    <loc>/categories/academics/</loc>
+    <lastmod>2019-06-06T21:04:52+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
+    <lastmod>2019-06-06T21:04:52+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <lastmod>2019-06-06T21:04:52+05:30</lastmod>
   </url>
   
@@ -48,6 +58,11 @@
   </url>
   
   <url>
+    <loc>/categories/travel/</loc>
+    <lastmod>2018-08-06T19:19:56+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/2018/06/authoring-a-good-resume/</loc>
     <lastmod>2018-06-06T21:04:52+05:30</lastmod>
   </url>
@@ -60,10 +75,6 @@
   <url>
     <loc>/tags/resume/</loc>
     <lastmod>2018-06-06T21:04:52+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
   </url>
   
   <url>
