@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/2020/06/approaching-for-job-referral/</loc>
+    <lastmod>2020-06-14T14:42:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-06-14T14:42:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-06-14T14:42:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/jobs/</loc>
+    <lastmod>2020-06-14T14:42:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/jobs/</loc>
+    <lastmod>2020-06-14T14:42:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-06-14T14:42:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/referrals/</loc>
+    <lastmod>2020-06-14T14:42:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-06-14T14:42:37+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2020-06-01T18:54:20+05:30</lastmod>
   </url>
@@ -13,32 +53,12 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-06-06T21:04:52+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-06-06T21:04:52+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/computer-science/</loc>
     <lastmod>2019-06-06T21:04:52+05:30</lastmod>
   </url>
   
   <url>
     <loc>/posts/2019/06/first-year-of-a-computer-science-engineer/</loc>
-    <lastmod>2019-06-06T21:04:52+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-06-06T21:04:52+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-06-06T21:04:52+05:30</lastmod>
   </url>
   
@@ -64,11 +84,6 @@
   
   <url>
     <loc>/posts/2018/06/authoring-a-good-resume/</loc>
-    <lastmod>2018-06-06T21:04:52+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/jobs/</loc>
     <lastmod>2018-06-06T21:04:52+05:30</lastmod>
   </url>
   
