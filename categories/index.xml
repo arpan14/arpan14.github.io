@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Arpan Mishra</title>
-    <link>/categories/</link>
+    <link>arpan14.github.io/categories/</link>
     <description>Recent content in Categories on Arpan Mishra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 14 Jun 2020 14:42:37 +0530</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="arpan14.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>jobs</title>
-      <link>/categories/jobs/</link>
+      <link>arpan14.github.io/categories/jobs/</link>
       <pubDate>Sun, 14 Jun 2020 14:42:37 +0530</pubDate>
       
-      <guid>/categories/jobs/</guid>
+      <guid>arpan14.github.io/categories/jobs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>academics</title>
-      <link>/categories/academics/</link>
+      <link>arpan14.github.io/categories/academics/</link>
       <pubDate>Thu, 06 Jun 2019 21:04:52 +0530</pubDate>
       
-      <guid>/categories/academics/</guid>
+      <guid>arpan14.github.io/categories/academics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>travel</title>
-      <link>/categories/travel/</link>
+      <link>arpan14.github.io/categories/travel/</link>
       <pubDate>Mon, 06 Aug 2018 19:19:56 +0530</pubDate>
       
-      <guid>/categories/travel/</guid>
+      <guid>arpan14.github.io/categories/travel/</guid>
       <description></description>
     </item>
     
