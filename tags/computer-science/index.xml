@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Computer Science on Arpan Mishra</title>
+    <link>https://arpanmishra.com/tags/computer-science/</link>
+    <description>Recent content in Computer Science on Arpan Mishra</description>
+    <image>
+      <title>Arpan Mishra</title>
+      <url>https://arpanmishra.com/images/papermod-cover.png</url>
+      <link>https://arpanmishra.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Thu, 06 Jun 2019 21:04:52 +0530</lastBuildDate>
+    <atom:link href="https://arpanmishra.com/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Year of a Computer Science Engineer</title>
+      <link>https://arpanmishra.com/posts/cs-students/cs-first-year/</link>
+      <pubDate>Thu, 06 Jun 2019 21:04:52 +0530</pubDate>
+      <guid>https://arpanmishra.com/posts/cs-students/cs-first-year/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Edit: I recalled the difficulty I had to hit the right links for my interests when I passed first year. So I have decided to include some links and references in the answer.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This answer is for the students who come to college without much exposure on the various fields in CSE.&lt;/p&gt;
+&lt;p&gt;In the first year, during college participate in as many club events (try out Web Dev, App Dev, Competitive Coding, Paper Presentation). After you have seen a bit of everything, it will be easier to realize your strengths and weaknesses. It is completely all right if you have a lot of weaknesses as long as you have a single strength. During the holidays you can enroll yourself in a MOOC course to see if you are really interested in the topic that you feel you are good at. Below are some links to check for the more powerful MOOCs out there.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
